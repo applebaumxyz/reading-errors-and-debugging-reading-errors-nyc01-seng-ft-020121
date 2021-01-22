@@ -3,5 +3,4 @@ def hello_world
   puts greeting
 end
 
- "hello world
 hello_world
